@@ -12,11 +12,12 @@ kotlin  - A complete understanding of the document at the following link
 
 https://developer.android.com/courses/kotlin-bootcamp/overview
 
+Android - View (layout), recyclerview,, etc.
 
 ### environment settings 
 
 Android Studio ( )
-Intellij ( )
+Intellij IDEA ( )
 
 JDK
 Android Gradle Plugin
@@ -30,24 +31,37 @@ Day 1 (7.31)
 - Checking environment settings and kotlin skills (No lecture)
 
 Day 2 (8.1)
-
-- Jetpack component and MVVM architecture implementation 
+- assignment before lecture 
+    - recyclerview, retrofit
+- lecture : 
+    -  1 : Jetpack component, MVVM architecture 
+    -  2 : MVVM architecture implementation 
+    -  3 : MVVM architecture implementation 
+- assignment : 
+    - MVVM architecture implementation implementation, 
+    - git branching, gitflow
 
 
 Day 3 (8.2)
-
-- MVVM architecture impementation
-- Git collaboration 
+- assignment before lecture : 
+    - MVVM architecture implementation implementation, 
+    - git branching, gitflow
+- lecture: MVVM architecture impementation, Git collaboration 
+- assignment : ??
 
 Day 4 (8.3)
+- assignment before lecture : 
+- lecture
+    - Profiling 
+    - Optimization
+    - recyclerview drag and drop (recyclerview drag and drop)
 
-- Profiling 
-- Optimization
-
+- assignment : review and party 
 
 Day 5 (8.4)
 
 - review 
+- conclusion
 
 
 
