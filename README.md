@@ -32,7 +32,7 @@ Day 1 (7.31)
 
 Day 2 (8.1)
 - assignment before lecture 
-    - recyclerview, retrofit
+    - recyclerview, retrofit, databinding
 - lecture : 
     -  1 : Jetpack component, MVVM architecture 
     -  2 : MVVM architecture implementation 
@@ -56,7 +56,7 @@ Day 4 (8.3)
     - Optimization
     - recyclerview drag and drop (recyclerview drag and drop)
 
-- assignment : review and party 
+- assignment : review and party ??
 
 Day 5 (8.4)
 
